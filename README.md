@@ -55,7 +55,21 @@ A US retail supply chain facing:
 `Return Rate` · `On-Time Delivery %` · `Avg Delivery Days` · `Lost Profit` · `Profit Margin` · `Late Shipment Rate`
 
 ---
+## 📸 Dashboard Preview
 
+### Overview
+![Overview](screenshots/02_overview.png)
+
+### Executive Analysis
+![Executive](screenshots/03_executive_analysis.png)
+
+### Regional Analysis
+![Regional](screenshots/04_regional_analysis.png)
+
+### Profitability Analysis
+![Profitability](screenshots/07_profitability_analysis.png)
+
+---
 ## 📁 Files in This Repository
 | File | Description |
 |------|-------------|
